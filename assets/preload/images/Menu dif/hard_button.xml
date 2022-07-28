@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hard button.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hard normal0000" x="0" y="0" width="628" height="635"/>
+	<SubTexture name="hard normal0001" x="0" y="0" width="628" height="635"/>
+	<SubTexture name="hard normal0002" x="638" y="0" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard normal0003" x="638" y="0" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard normal0004" x="0" y="0" width="628" height="635"/>
+	<SubTexture name="hard normal0005" x="0" y="0" width="628" height="635"/>
+	<SubTexture name="hard normal0006" x="638" y="0" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard normal0007" x="638" y="0" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard normal0008" x="0" y="0" width="628" height="635"/>
+	<SubTexture name="hard normal0009" x="0" y="0" width="628" height="635"/>
+	<SubTexture name="hard normal0010" x="638" y="0" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard normal0011" x="638" y="0" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard normal0012" x="0" y="0" width="628" height="635"/>
+	<SubTexture name="hard normal0013" x="0" y="0" width="628" height="635"/>
+	<SubTexture name="hard normal0014" x="638" y="0" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard normal0015" x="638" y="0" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard normal0016" x="0" y="0" width="628" height="635"/>
+	<SubTexture name="hard normal0017" x="0" y="0" width="628" height="635"/>
+	<SubTexture name="hard normal0018" x="638" y="0" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard normal0019" x="638" y="0" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard normal0020" x="0" y="0" width="628" height="635"/>
+	<SubTexture name="hard normal0021" x="0" y="0" width="628" height="635"/>
+	<SubTexture name="hard normal0022" x="638" y="0" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard normal0023" x="638" y="0" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard press0000" x="1275" y="0" width="636" height="647"/>
+	<SubTexture name="hard selected0000" x="0" y="657" width="628" height="635"/>
+	<SubTexture name="hard selected0001" x="0" y="657" width="628" height="635"/>
+	<SubTexture name="hard selected0002" x="638" y="657" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard selected0003" x="638" y="657" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard selected0004" x="0" y="657" width="628" height="635"/>
+	<SubTexture name="hard selected0005" x="0" y="657" width="628" height="635"/>
+	<SubTexture name="hard selected0006" x="638" y="657" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard selected0007" x="638" y="657" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard selected0008" x="0" y="657" width="628" height="635"/>
+	<SubTexture name="hard selected0009" x="0" y="657" width="628" height="635"/>
+	<SubTexture name="hard selected0010" x="638" y="657" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard selected0011" x="638" y="657" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard selected0012" x="0" y="657" width="628" height="635"/>
+	<SubTexture name="hard selected0013" x="0" y="657" width="628" height="635"/>
+	<SubTexture name="hard selected0014" x="638" y="657" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard selected0015" x="638" y="657" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard selected0016" x="0" y="657" width="628" height="635"/>
+	<SubTexture name="hard selected0017" x="0" y="657" width="628" height="635"/>
+	<SubTexture name="hard selected0018" x="638" y="657" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard selected0019" x="638" y="657" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard selected0020" x="0" y="657" width="628" height="635"/>
+	<SubTexture name="hard selected0021" x="0" y="657" width="628" height="635"/>
+	<SubTexture name="hard selected0022" x="638" y="657" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+	<SubTexture name="hard selected0023" x="638" y="657" width="627" height="635" frameX="0" frameY="0" frameWidth="628" frameHeight="635"/>
+</TextureAtlas>
